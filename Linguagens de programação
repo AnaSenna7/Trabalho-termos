@@ -1,0 +1,19 @@
+Python
+Java
+C++
+
+Sintaxe:
+Python: Python é conhecido por sua sintaxe simples e legível, o que o torna fácil de aprender e usar.
+Java: Java possui uma sintaxe mais rígida e exige que os programadores declarem explicitamente o tipo de dados das variáveis.
+C++: C++ também tem uma sintaxe mais complexa em comparação com Python, com uma ênfase na gestão manual de memória.
+
+Gerenciamento de Memória:
+Python: Python possui gerenciamento automático de memória (coleta de lixo), o que significa que você não precisa se preocupar em liberar memória manualmente.
+Java: Java também possui um sistema de gerenciamento de memória automático, conhecido como coleta de lixo.
+C++: C++ requer que os programadores gerenciem a alocação e desalocação de memória manualmente, o que pode ser mais propenso a erros.
+
+Uso e Aplicações:
+
+Python: Python é usado principalmente para desenvolvimento web, ciência de dados, automação, aprendizado de máquina e uma variedade de aplicativos gerais devido à sua simplicidade e produtividade.
+Java: Java é amplamente utilizado para desenvolvimento de aplicativos móveis (Android), desenvolvimento web, aplicativos empresariais e sistemas distribuídos.
+C++: C++ é comumente usado em desenvolvimento de jogos, sistemas operacionais, aplicativos de alto desempenho, sistemas embarcados e software de baixo nível.
